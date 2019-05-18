@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mishok/CLion/2_2_3/main.cpp
+iostream
+-
+algorithm
+-
+cassert
+-
+vector
+-
+set
+-
+
